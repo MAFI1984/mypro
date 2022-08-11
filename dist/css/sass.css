@@ -165,7 +165,7 @@ body {
 }
 
 #service-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/img-4.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../../images/img-4.jpg);
   height: 120vh;
   background-size: cover;
   background-repeat: no-repeat;
@@ -173,7 +173,7 @@ body {
 }
 @media (max-width: 56.25em) {
   #service-bg {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/img-small-4.jpg);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../images/img-small-4.jpg);
     height: 90vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -256,7 +256,7 @@ body {
   border-top-right-radius: 1rem;
 }
 .service__img--1 {
-  background: linear-gradient(#23f923, #23f923), url(../images/img-4.jpg);
+  background: linear-gradient(#23f923, #23f923), url(../../images/img-4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -264,7 +264,7 @@ body {
 }
 @media (max-width: 56.25em) {
   .service__img--1 {
-    background: linear-gradient(#23f923, #23f923), url(../images/img-small-4.jpg);
+    background: linear-gradient(#23f923, #23f923), url(../../images/img-small-4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -272,7 +272,7 @@ body {
   }
 }
 .service__img--2 {
-  background: linear-gradient(#f72b2b, #f72b2b), url(../images/img-14.jpg);
+  background: linear-gradient(#f72b2b, #f72b2b), url(../../images/img-14.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -280,7 +280,7 @@ body {
 }
 @media (max-width: 56.25em) {
   .service__img--2 {
-    background: linear-gradient(#f72b2b, #f72b2b), url(../images/img-small-14.jpg);
+    background: linear-gradient(#f72b2b, #f72b2b), url(../../images/img-small-14.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -288,7 +288,7 @@ body {
   }
 }
 .service__img--3 {
-  background: linear-gradient(#f3be0f, #f3be0f), url(../images/img-17.jpg);
+  background: linear-gradient(#f3be0f, #f3be0f), url(../../images/img-17.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -296,7 +296,7 @@ body {
 }
 @media (max-width: 56.25em) {
   .service__img--3 {
-    background: linear-gradient(#f3be0f, #f3be0f), url(../images/img-small-17.jpg);
+    background: linear-gradient(#f3be0f, #f3be0f), url(../../images/img-small-17.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -304,7 +304,7 @@ body {
   }
 }
 .service__img--4 {
-  background: linear-gradient(#1d1d9c, #1d1d9c), url(../images/img-22.jpg);
+  background: linear-gradient(#1d1d9c, #1d1d9c), url(../../images/img-22.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -312,7 +312,7 @@ body {
 }
 @media (max-width: 56.25em) {
   .service__img--4 {
-    background: linear-gradient(#1d1d9c, #1d1d9c), url(../images/img-small-22.jpg);
+    background: linear-gradient(#1d1d9c, #1d1d9c), url(../../images/img-small-22.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -339,7 +339,7 @@ body {
 }
 
 #gallery-bg {
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/img-8.jpg);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../images/img-8.jpg);
   height: 150vh;
   background-size: cover;
   background-repeat: no-repeat;
@@ -430,7 +430,7 @@ body {
 }
 
 #about-bg {
-  background: linear-gradient(to top, rgba(0, 142, 214, 0.6), rgba(0, 142, 214, 0.6)), url(../images/img-15.jpg);
+  background: linear-gradient(to top, rgba(0, 142, 214, 0.6), rgba(0, 142, 214, 0.6)), url(../../images/img-15.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
@@ -457,7 +457,7 @@ body {
 }
 @media (max-width: 56.25em) {
   #about-bg {
-    background: linear-gradient(to top, rgba(0, 142, 214, 0.6), rgba(0, 142, 214, 0.6)), url(../images/img-small-15.jpg);
+    background: linear-gradient(to top, rgba(0, 142, 214, 0.6), rgba(0, 142, 214, 0.6)), url(../../images/img-small-15.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -566,7 +566,7 @@ body {
 }
 
 #contact-bg {
-  background: linear-gradient(to top, rgba(0, 142, 214, 0.6), rgba(0, 142, 214, 0.6)), url(../images/img-5.jpg);
+  background: linear-gradient(to top, rgba(0, 142, 214, 0.6), rgba(0, 142, 214, 0.6)), url(../../images/img-5.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
@@ -578,7 +578,7 @@ body {
 }
 @media (max-width: 56.25em) {
   #contact-bg {
-    background: linear-gradient(to top, rgba(0, 142, 214, 0.6), rgba(0, 142, 214, 0.6)), url(../images/img-small-5.jpg);
+    background: linear-gradient(to top, rgba(0, 142, 214, 0.6), rgba(0, 142, 214, 0.6)), url(../../images/img-small-5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
   }
