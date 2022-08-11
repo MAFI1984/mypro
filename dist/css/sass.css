@@ -186,7 +186,7 @@ body {
 }
 @media (max-width: 37.5em) {
   #service-bg {
-    height: 200vh;
+    height: 220vh;
   }
 }
 
@@ -357,7 +357,7 @@ body {
 }
 @media (max-width: 37.5em) {
   #gallery-bg {
-    height: 320vh;
+    height: 305vh;
   }
 }
 
