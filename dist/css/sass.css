@@ -189,11 +189,7 @@ body {
     height: 200vh;
   }
 }
-@media (max-width: 25em) {
-  #service-bg {
-    height: 150vh;
-  }
-}
+
 
 .service-heading-bg {
   padding: 3rem;
