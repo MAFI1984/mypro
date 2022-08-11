@@ -107,7 +107,7 @@ body {
 }
 
 #home-bg {
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/img-16.jpg);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../../images/img-16.jpg);
   height: 80%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -116,7 +116,7 @@ body {
 }
 @media (max-width: 68.75em) {
   #home-bg {
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/img-small-16.jpg);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../../images/img-small-16.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
