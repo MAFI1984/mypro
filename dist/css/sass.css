@@ -359,16 +359,7 @@ body {
     height: 200vh;
   }
 }
-@media (max-width: 37.5em) {
-  #gallery-bg {
-    height: 430vh;
-  }
-}
-@media (max-width: 25em) {
-  #gallery-bg {
-    height: 430vh;
-  }
-}
+
 
 .gallery-heading-bg {
   background: #f93153;
